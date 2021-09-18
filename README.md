@@ -1,2 +1,2 @@
 Code for the PhD Project
-Juan Malagon, Carla Haelermans
+Alex Grigoriev, Carla Haelermans, Juan Malagon
